@@ -1,2 +1,1 @@
-- [Developer Roadmaps](https://roadmap.sh/)
-- [Awsome Links](https://github.com/topics/awesome)
+- [Awsome Lists](https://github.com/topics/awesome)
