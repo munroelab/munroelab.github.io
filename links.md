@@ -1,4 +1,5 @@
 - [Awsome Lists](https://github.com/topics/awesome)
+- [Awesome Open Climate Science](https://github.com/pangeo-data/awesome-open-climate-science)
 
 ### Geospatial Data Explorers
 - http://navigator.oceansdata.ca/public/
