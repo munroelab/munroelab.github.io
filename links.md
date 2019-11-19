@@ -36,8 +36,10 @@
 - VS Code
 - WSL
 - CD/CI
+- Testing frameworks
 - Docker
-- [ERDDAP](https://coastwatch.pfeg.noaa.gov/erddap/index.html
+- Kubernetes
+- [ERDDAP](https://coastwatch.pfeg.noaa.gov/erddap/index.html)
   - https://coastwatch.pfeg.noaa.gov/erddap/index.html
 
 ### Data sources
