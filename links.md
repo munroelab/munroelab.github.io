@@ -14,6 +14,7 @@
   - https://livingatlas.arcgis.com/waterbalance/
 - https://geo.library.arizona.edu/
 - https://argovis.colorado.edu
+- https://www.smartatlantic.ca/station_alt.html?id=fortune_bay
 
 ### Web frameworks
 - [ReactJS](https://reactjs.org/)
@@ -46,5 +47,4 @@
 - https://nrlgodae1.nrlmry.navy.mil/cgi-bin/datalist.pl?generate=summary
 - http://www.coriolis.eu.org/Data-Products/Catalogue#/search?from=1&to=30
 - https://portal.aodn.org.au/
-- 
-- 
+- https://www.smartatlantic.ca/erddap/info/index.html?page=1&itemsPerPage=1000
