@@ -2,19 +2,19 @@
 - [Awesome Open Climate Science](https://github.com/pangeo-data/awesome-open-climate-science)
 
 ### Geospatial Data Explorers
-- http://navigator.oceansdata.ca/public/
-- https://map.terria.io/
-- https://sensors.ioos.us/#map
-- https://earth.nullschool.net/
-- http://nvs.nanoos.org/Explorer?action=overlay:liveocean_arag
-- https://www.windy.com
-- https://test-www.ogsl.ca/octo
-- https://podaac-tools.jpl.nasa.gov/soto
-- https://livingatlas.arcgis.com/en/browse/#d=2&categories=Environment:1111000000
-  - https://livingatlas.arcgis.com/waterbalance/
-- https://geo.library.arizona.edu/
-- https://argovis.colorado.edu
-- https://www.smartatlantic.ca/station_alt.html?id=fortune_bay
+- [Ocean Navigator](http://navigator.oceansdata.ca/public/)
+- [TerriaJS](https://map.terria.io/)
+- [IOOS Sensor Map](https://sensors.ioos.us/#map)
+- [Earth Nullschool](https://earth.nullschool.net/)
+- [NANOOS](http://nvs.nanoos.org/Explorer?action=overlay:liveocean_arag)
+- [Windy](https://www.windy.com)
+- [Octo Test Instance](https://test-www.ogsl.ca/octo)
+- [State of the Ocean (SOTO)](https://podaac-tools.jpl.nasa.gov/soto)
+- [Living Atlas ArcGIS](https://livingatlas.arcgis.com/en/browse/#d=2&categories=Environment:1111000000)
+  - [Living Atlas Waterbalance](https://livingatlas.arcgis.com/waterbalance/)
+- [Geospatial Arizona](https://geo.library.arizona.edu/)
+- [Argovis](https://argovis.colorado.edu)
+- [Smart Atlantic](https://www.smartatlantic.ca/station_alt.html?id=fortune_bay)
 
 ### Web frameworks
 - [ReactJS](https://reactjs.org/)
@@ -23,14 +23,14 @@
 - [VanillaJS](http://vanilla-js.com/)
 
 ### Web mapping, datasets, software
-- https://openlayers.org/
-- https://leafletjs.com/
-- https://cesium.com/cesiumjs/
-- https://developers.google.com/maps/documentation
-- https://docs.mapbox.com/mapbox-gl-js/examples/
-- https://download.gebco.net/
-- https://www.microsoft.com/en-us/maps/v8-control
-- https://scitools.org.uk/cartopy/docs/latest/
+- [Open Layers](https://openlayers.org/)
+- [LeafletJS](https://leafletjs.com/)
+- [CesiumJS](https://cesium.com/cesiumjs/)
+- [Google Maps](https://developers.google.com/maps/documentation)
+- [Mapbox](https://docs.mapbox.com/mapbox-gl-js/examples/)
+- [GEBCO](https://download.gebco.net/)
+- [Bing Maps](https://www.microsoft.com/en-us/maps/v8-control)
+- [Cartopy](https://scitools.org.uk/cartopy/docs/latest/)
 
 ### Technologies
 - VS Code
@@ -43,10 +43,10 @@
   - https://coastwatch.pfeg.noaa.gov/erddap/index.html
 
 ### Data sources
-- https://dd.weather.gc.ca/
-- https://www.ncdc.noaa.gov/data-access/model-data/ocean-nomads
-- http://www.meds-sdmm.dfo-mpo.gc.ca/isdm-gdsi/index-eng.html
-- https://nrlgodae1.nrlmry.navy.mil/cgi-bin/datalist.pl?generate=summary
-- http://www.coriolis.eu.org/Data-Products/Catalogue#/search?from=1&to=30
-- https://portal.aodn.org.au/
-- https://www.smartatlantic.ca/erddap/info/index.html?page=1&itemsPerPage=1000
+- [EC Datamart](https://dd.weather.gc.ca/)
+- [NOAA NOMADS](https://www.ncdc.noaa.gov/data-access/model-data/ocean-nomads)
+- [DFO MEDS](http://www.meds-sdmm.dfo-mpo.gc.ca/isdm-gdsi/index-eng.html)
+- [GODAE](https://nrlgodae1.nrlmry.navy.mil/cgi-bin/datalist.pl?generate=summary)
+- [Coriolis](http://www.coriolis.eu.org/Data-Products/Catalogue#/search?from=1&to=30)
+- [AODN](https://portal.aodn.org.au/)
+- [Smart Atlantic ERDDAP](https://www.smartatlantic.ca/erddap/info/index.html?page=1&itemsPerPage=1000)
