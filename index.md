@@ -1,3 +1,8 @@
+## Munroelab subpages
+- [Web Developement Resources](web_developement_resources.html)
+- [Geospatial Data Explorers](geodataviewer.html)
+
+## Awesome links
 - [Awsome Lists](https://github.com/topics/awesome)
 - [Awesome Open Climate Science](https://github.com/pangeo-data/awesome-open-climate-science)
 
