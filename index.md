@@ -55,3 +55,6 @@
 - [Coriolis](http://www.coriolis.eu.org/Data-Products/Catalogue#/search?from=1&to=30)
 - [AODN](https://portal.aodn.org.au/)
 - [Smart Atlantic ERDDAP](https://www.smartatlantic.ca/erddap/info/index.html?page=1&itemsPerPage=1000)
+
+### Ocean Models
+- [https://eurogoos.eu/models/](https://eurogoos.eu/models/)
