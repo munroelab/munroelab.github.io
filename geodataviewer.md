@@ -1,16 +1,16 @@
 
 # Geospatial Data and Model Viewers
 
-[NASA State of the Ocean](https://podaac-tools.jpl.nasa.gov/soto/)
-[Windy](https://www.windy.com/)
-[Nullschool Earth](https://earth.nullschool.net/)
-[EDS Model Viewer](https://eds.ioos.us/)
-[Ocean Soundscape Atlas](https://soundscape-atlas.uqar.ca/)
-[Ocean Data Viewer](https://data.unep-wcmc.org/)
-[My Ocean](https://cmems.lobelia.earth/)
-[Ocean Navigator](http://navigator.oceansdata.ca/public/)
-[SLGO Ocean Forecasts](https://ogsl.ca/en/ocean-forecasts-application/)
-[IOOS Sensor Map](https://sensors.ioos.us/#map)
+- [NASA State of the Ocean](https://podaac-tools.jpl.nasa.gov/soto/)
+- [Windy](https://www.windy.com/)
+- [Nullschool Earth](https://earth.nullschool.net/)
+- [EDS Model Viewer](https://eds.ioos.us/)
+- [Ocean Soundscape Atlas](https://soundscape-atlas.uqar.ca/)
+- [Ocean Data Viewer](https://data.unep-wcmc.org/)
+- [My Ocean](https://cmems.lobelia.earth/)
+- [Ocean Navigator](http://navigator.oceansdata.ca/public/)
+- [SLGO Ocean Forecasts](https://ogsl.ca/en/ocean-forecasts-application/)
+- [IOOS Sensor Map](https://sensors.ioos.us/#map)
 
 
 # Comparison and Evaluation of Selected Websites
