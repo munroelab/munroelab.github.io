@@ -1,9 +1,6 @@
 
 # Geospatial Data and Model Viewers
 
-- [NASA State of the Ocean](https://podaac-tools.jpl.nasa.gov/soto/)
-- [Windy](https://www.windy.com/)
-- [Nullschool Earth](https://earth.nullschool.net/)
 - [EDS Model Viewer](https://eds.ioos.us/)
 - [Ocean Soundscape Atlas](https://soundscape-atlas.uqar.ca/)
 - [Ocean Data Viewer](https://data.unep-wcmc.org/)
@@ -11,7 +8,18 @@
 - [Ocean Navigator](http://navigator.oceansdata.ca/public/)
 - [SLGO Ocean Forecasts](https://ogsl.ca/en/ocean-forecasts-application/)
 - [IOOS Sensor Map](https://sensors.ioos.us/#map)
-
+- [Ocean Navigator](http://navigator.oceansdata.ca/public/)
+- [TerriaJS](https://map.terria.io/)
+- [Earth Nullschool](https://earth.nullschool.net/)
+- [NANOOS](http://nvs.nanoos.org/Explorer?action=overlay:liveocean_arag)
+- [Windy](https://www.windy.com)
+- [Octo Test Instance](https://test-www.ogsl.ca/octo)
+- [NASA State of the Ocean (SOTO)](https://podaac-tools.jpl.nasa.gov/soto)
+- [Living Atlas ArcGIS](https://livingatlas.arcgis.com/en/browse/#d=2&categories=Environment:1111000000)
+  - [Living Atlas Waterbalance](https://livingatlas.arcgis.com/waterbalance/)
+- [Geospatial Arizona](https://geo.library.arizona.edu/)
+- [Argovis](https://argovis.colorado.edu)
+- [Smart Atlantic](https://www.smartatlantic.ca/station_alt.html?id=fortune_bay)
 
 # Comparison and Evaluation of Selected Websites
 
